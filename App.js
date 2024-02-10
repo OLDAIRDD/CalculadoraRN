@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import { Estado } from './componentes/Estado';
-import { Boton } from './componentes/Atomicos';
-import { Calculadora } from './componentes/Calculadora';
+import { Estado } from './compo/Estado';
+import { Boton } from './compo/Atomicos';
+import { Calculadora } from './compo/Calculadora';
 
 export default function App() {
   return (
